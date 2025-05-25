@@ -1,6 +1,8 @@
 # Actively-Unknown
 ======================
-(../iamges/hex-bin-img.png)
+
+![image of a glowing hexagonal lattice with clusters of hexagons grouped together](https://github.com/GreySkySpin/Actively-Unknown/blob/main/images/hex-bin-img.png?raw=true)
+
 # Hexagonal Truth Landscapes
 
 This project explores how truth, coherence, and meaning can be visualised using a hexagonal lattice and topological ideas. Built with D3.js, it simulates emergent truth-spaces as probabilistic, distributed patterns — more like evolving conversations than fixed facts.
