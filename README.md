@@ -1,5 +1,4 @@
 # Actively Unknown
-======================
 
 ![image of a glowing hexagonal lattice with clusters of hexagons grouped together](https://github.com/GreySkySpin/Actively-Unknown/blob/main/images/hex-bin-img.png?raw=true)
 
