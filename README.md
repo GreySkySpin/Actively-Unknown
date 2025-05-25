@@ -1,6 +1,6 @@
 # Actively-Unknown
 ======================
-
+(../iamges/hex-bin-img.png)
 # Hexagonal Truth Landscapes
 
 This project explores how truth, coherence, and meaning can be visualised using a hexagonal lattice and topological ideas. Built with D3.js, it simulates emergent truth-spaces as probabilistic, distributed patterns — more like evolving conversations than fixed facts.
