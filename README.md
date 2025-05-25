@@ -48,7 +48,7 @@ As development progresses, access may be limited to collaborators who align with
 
 ## Licence
 
-Currently unlicensed. The work is shared in the spirit of collaboration and exploration, not appropriation. A more explicit licence (e.g. [CC0](https://creativecommons.org/publicdomain/zero/1.0/) or custom contributor agreement) may be added later.
+Currently unlicensed. The work is shared in the spirit of collaboration and exploration, not appropriation. A more explicit licence may be added later.
 
 If you'd like to contribute or collaborate, reach out with your thoughts. Let’s build this carefully and consciously.
 
